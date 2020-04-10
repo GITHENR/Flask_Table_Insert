@@ -38,9 +38,6 @@ PyWavelets==1.0.2
 pywin32-ctypes==0.2.0
 Quandl==3.4.6
 requests==2.21.0
-scikit-image==0.14.2
-scikit-learn==0.20.3
-scipy==1.2.1
 six==1.12.0
 sklearn==0.0
 toolz==0.9.0
