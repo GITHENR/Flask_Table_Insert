@@ -17,6 +17,3 @@ def profile(name):
     task = {'PartitionKey': 'First', 'RowKey': '1000','description': 'product1', 'priority': 200}
     table_service.insert_entity('product', task)
     return render_template('hello.html', name=name)
-
-if __name__ == "__main__":
-    app.run()
