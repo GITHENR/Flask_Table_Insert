@@ -30,4 +30,4 @@ jobs:
       with:
         app-name: 'pythflsk1'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_d0d4cec3214045c788484b86c5427f82 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_cad562961b1c4d2788d27718a463b105 }}
