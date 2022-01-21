@@ -17,7 +17,7 @@ easygui==0.98.1
 future==0.18.2
 idna==2.8
 inflection==0.3.1
-ipython==7.3.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 jedi==0.13.2
 kiwisolver==1.0.1
